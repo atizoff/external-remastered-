@@ -1,0 +1,15 @@
+﻿  LuxeEngine.cpp
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\Library\CrySdk.h(33): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\Library\CryOffsets.h(294): warning C4244: аргумент: преобразование "uintptr_t" в "DWORD", возможна потеря данных
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\Library\CryOffsets.h(377): warning C4244: аргумент: преобразование "uintptr_t" в "DWORD", возможна потеря данных
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\Library\CryOffsets.h(526): warning C4244: return: преобразование "f32" в "int32", возможна потеря данных
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\Library\CryOffsets.h(533): warning C4244: return: преобразование "f32" в "int32", возможна потеря данных
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\Library\CryOffsets.h(841): warning C4312: приведение типов: преобразование из "DWORD" в "DWORD *" большего размера
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\Library\CryRevers.h(516): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\LuxeEngine.cpp(130): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\LuxeEngine.cpp(76): warning C4101: hwnd: неиспользованная локальная переменная
+  Создание кода
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\LuxeEngine.cpp(27): warning C4715: IsRunGame: значение возвращается не при всех путях выполнения
+C:\Users\Elshad\Desktop\coding\work\LuxeHack(Multi)\LuxeEngine.cpp(137): warning C4715: WinMain: значение возвращается не при всех путях выполнения
+  Создание кода завершено
+  LuxeHack(Multi).vcxproj -> C:\Users\Elshad\Desktop\coding\work\bin\Luxe.exe
